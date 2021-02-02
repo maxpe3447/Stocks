@@ -1,0 +1,3 @@
+E:\Project of VS\Stocks\Stocks\Debug\Stocks.vcxprojAssemblyReference.cache
+E:\Project of VS\Stocks\Stocks\Debug\Stocks.MyForm.resources
+E:\Project of VS\Stocks\Stocks\Debug\Stocks.vcxproj.GenerateResource.cache

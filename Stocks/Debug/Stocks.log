@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+E:\Project of VS\Stocks\Stocks\Fizika.h(15,88): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Project of VS\Stocks\Stocks\Fizika.h(19,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Project of VS\Stocks\Stocks\Fizika.h(29,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Project of VS\Stocks\Stocks\Fizika.h(38,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Project of VS\Stocks\Stocks\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Stocks.vcxproj -> E:\Project of VS\Stocks\Debug\Stocks.exe
